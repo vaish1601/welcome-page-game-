@@ -78,7 +78,7 @@ button:hover{
   }
   i{
       font-size: 39px;
-      margin-top: 2%;
+      margin-top: 7%;
   }
   h6{
       position: absolute;
@@ -238,18 +238,18 @@ h6{
       .abclogo{
         width:5%;
         position: absolute;
-        margin-top: 46.5%;
+        margin-top: 43.5%;
         margin-left: 69%;
     }
     h5{
         position: absolute;
-        margin-top:48% ;
+        margin-top:45% ;
         margin-left: 75%;
         font-size: 25px;
     }
     h6{
         position: absolute;
-        margin-top:48% ;
+        margin-top:45% ;
         margin-left: 1%;
         font-size:20px ;
         font-family: 'Exo 2', sans-serif;
